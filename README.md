@@ -1,4 +1,4 @@
-# 🛒 Eleva Vendas
+# Eleva Vendas
 
 <img src="logo.png" width="200" height="200" alt="Logo Eleva Vendas" />
 
@@ -62,7 +62,7 @@ Consulte também o nosso [Manual do Desenvolvedor](doc/guia-ds/guia.md) para mai
 |---|---|---|
 | Felipe Nascimento | [`Felipemevel`](https://github.com/Felipemevel) | `felpszito` |
 | Gustavo Jácome | [`gustavofjacome`](https://github.com/gustavofjacome) | `gutziron` |
-| Maxwell Dantas | `maxwell-dantas` | `maksueru` |
+| Maxwell Dantas | [`maxwell-dantas`](https://github.com/maxwell-dantas) | `maksueru` |
 | Wedson Gabriel | [`WedsonGabriel`](https://github.com/WedsonGabriel) | `insanemonster7` |
 
 > 💬 **Canais de Comunicação:** Entre em contato com a equipe através do Discord (usuários acima) ou pelas *Issues* e *Discussions* aqui no GitHub.
